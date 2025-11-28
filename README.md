@@ -1,5 +1,4 @@
 - __CodeSandbox__: codesandbox.io/u/dzino
-- __GooglePlay__: play.google.com/store/apps/developer?id=dzino
 - __LinkedIn__: linkedin.com/in/maxim-okunev-283065166
 - __Email__: maksoku@gmail.com
 
